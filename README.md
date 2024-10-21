@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Panackal
-- 👀 I’m interested in Wed designing 
+- 👀 I’m interested in Web designing 
 - 🌱 I’m currently learning  Flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
