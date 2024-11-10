@@ -1,39 +1,51 @@
-# Hi there, I'm Joshua Panackal! 👋
+# Hi there, I'm Joshu! 👋
 
-🎓 **Final-year BTech in Information Technology student**  
-💻 Passionate about building web and mobile applications with **React** and **Flutter**.  
-🌱 Currently learning and working on new projects in Flutter and Mern stack techs you're exploring].
+![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/YourGitHubUsername?affiliations=OWNER&style=social)
+
+🎓 **Final-year BTech in Information Technology**  
+💻 Currently building web and mobile apps with **React** and **Flutter**.  
+🌱 Always eager to learn new technologies and solve complex problems.
+
+---
+ 
+## 🛠️ Tech Stack:
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
 
 ---
 
-## 🚀 Technologies & Tools:
-- **Languages**: Java, C++, JavaScript, Dart
-- **Frameworks/Libraries**: React, Flutter
-- **Databases**: [mention your database skills]
-- **Other**: Linux, Git
+## 🏆 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-## 🏗️ Projects:
-### [Project 1 FILMATE]
-- **Description**: [Movie catalogue and recommendations system]
-- **Tech stack**: [Flutter,Flask, Dart , Python, Git]
-- **Link**: [GitHub repo link] | [Live demo link (if any)]
+## 🔧 Projects:
+### FILMATE 📱
+- **Description**: Movie catalogue and recommendation system 
+- **Tech Used**: Flutter, Flask , Dart , Python , Git 
+- [GitHub Repo](link) | [Live Demo](link)
 
-### [Project 2 Name]
-- **Description**: [Short description]
-- **Tech stack**: Flutter, [other techs]
-- **Link**: [GitHub repo link] | [App preview (if applicable)]
-
----
-
-## 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?panackal=YourGitHubUsername&show_icons=true&theme=radical)
+###  Netflix UI Clone  🚀
+- **Description**: Netflix UI clone using React 
+- **Tech Used**: React , Firebase,TMDB, YouTube, Nodejs 
+- [GitHub Repo](link) | [App Preview](link)
 
 ---
 
-## 📫 How to reach me:
-- [Joshua Panackal]
-- [joshuapanackal3@gmail.com]
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](your-portfolio-link)
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+---
+
+![Thanks for visiting!](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+🚀)
