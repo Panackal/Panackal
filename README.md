@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Joshua Panackal! 👋
 
 🎓 **Final-year BTech in Information Technology student**  
 💻 Passionate about building web and mobile applications with **React** and **Flutter**.  
-🌱 Currently learning and working on new projects in [any additional techs you're exploring].
+🌱 Currently learning and working on new projects in Flutter and Mern stack techs you're exploring].
 
 ---
 
