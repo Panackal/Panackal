@@ -28,13 +28,13 @@
 ###  Netflix UI Clone  🚀
 - **Description**: Netflix UI clone using React 
 - **Tech Used**: React , Firebase,TMDB, YouTube, Nodejs 
-- [GitHub Repo](link) | [App Preview](link)
+- [GitHub Repo](https://github.com/FilmMate) | [App Preview](https://github.com/FilmMate/frontend/releases/tag/v1.54-demo)
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](your-portfolio-link)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/joshua-panackal-5776a0247/)
+
 
 ---
 
