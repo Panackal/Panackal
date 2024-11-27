@@ -39,3 +39,4 @@
 ---
 
 ![Thanks for visiting!](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+🚀)
+￼Enter
