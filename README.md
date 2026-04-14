@@ -1,7 +1,6 @@
 # Hi there, I'm Joshu! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)
+
 
 ---
 
